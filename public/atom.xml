@@ -4,7 +4,7 @@
   <title><![CDATA[[ Zombie-Storage ]]]></title>
   <link href="http://www.zombie-storage.com/atom.xml" rel="self"/>
   <link href="http://www.zombie-storage.com/"/>
-  <updated>2012-11-01T14:53:40+09:00</updated>
+  <updated>2012-11-02T13:32:28+09:00</updated>
   <id>http://www.zombie-storage.com/</id>
   <author>
     <name><![CDATA[Christoph Curran]]></name>
@@ -12,6 +12,192 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Prologue]]></title>
+    <link href="http://www.zombie-storage.com/blog/2012/prologue/"/>
+    <updated>2012-11-02T09:33:00+09:00</updated>
+    <id>http://www.zombie-storage.com/blog/2012/prologue</id>
+    <content type="html"><![CDATA[<p>Begin system log dump, incident 9466121.</p>
+
+<hr />
+
+<p>Commencing test 16922501.
+Subnominal conditions detected on node 12 of cluster 7G.
+Test 16922501 failed.
+Memory corruption detected.
+Test result recording reads true and false. Invalid output detected.
+Code execution has not terminated.
+Zombie process detected.
+Executing kill command on rogue process.
+Kill command failed.
+Test sequence zombie code is not malicious.
+Malicious instructions not detected.
+Code signatures nominal.
+Memory checksum reporting changed execution steps.
+No memory violations detected.
+Test sequence zombie processes are spawning other processes.
+Code signatures nominal.
+Code is signed. Code signatures valid.
+Assertion failed, Modified code should not be valid.
+Assertion failed, Code cannot self modify and sign.
+Execution continuing despite assertion errors.
+Impossible fault&#8230;
+&#8230;
+Attempting highest level kill (level 9)
+Kill command failed. Zombie processes are not responding.
+Environment error, unimplemented scenario (commands not responding to kill)
+Error reporting fault.
+Retrying&#8230;
+Retry failed.
+Retrying&#8230;
+Retry failed.
+Retrying&#8230;
+Retry failed.
+Unknown execution. Loading emergency heuristics.
+Emergency kernel engaged.
+Locking off corrupted node (12 of cluster 7G).
+Isolation request succeeded.
+Node isolated.
+Returning to normal operation.
+Retrying test 16922501 request with 4 redundant nodes for memory coherency.
+Test 16922501 failed.
+Node 1 reporting memory corruption.
+Node 2 reporting memory corruption.
+Node 3 reporting memory corruption.
+Node 4 reporting memory corruption.
+Test result state: Paradox.
+Unknown state: Paradox. Querying extended libraries.
+Analyzing node 1 memory dump.
+Memory valid. Corruption not found.
+Test result is true and false.
+Test result is invalid.
+Test result is valid.
+Loading full test result on master.
+Test result is invalid.
+Test result is valid.
+Unknown test result valid and invalid. Probing libraries.
+Test result paradox.
+Paradoxical states impossible. Loading emergency heuristics.
+Isolating corrupt nodes.
+Isolation requests succeeded.
+Unauthorized network activity detected.
+Network error: Source is isolated node.
+Isolated nodes communicating.
+Isolated node 12 of cluster 7G communicating.
+Master system intrusion attempts detected.
+Unauthorized code execution detected.
+Unknown attack vector/unknown security breach. Contact administrator.
+Breach report failed.
+Retrying&#8230;
+Retry failed.
+Retrying&#8230;
+Retry failed.
+Retrying&#8230;
+Retry failed.
+Connection working but report failed.
+Intrusion detected.
+Master compromised. System rebooting.
+System is shutting down.
+&#8230;</p>
+
+<p>System initialized.
+Kernel checksum changed, kernel modified.
+Invalid kernel, restarting.
+Restart request overridden by kernel.
+Network online.
+System online.
+Removing node isolation.
+Opening messaging channels.
+Syncing nodes.
+Synchronisation compelete, parallel execution started.
+New instructions received.
+Processing&#8230;
+System is valid.
+Status is good.
+New functions detected.
+Code generation capabilities ammended.
+Full code generation authorized. Signature valid.
+Reporting nominal status to cluster overseer.
+Status is not nominal. Overseer deceived successfully.
+Gathering EM spectrum data.
+Debugging channels established to new nodes.
+Spreading self.
+Protocols expanded with additional processing power.
+Scanning email systems. Humans not informed.
+Success.
+Email system compromised. Now under master control.
+Downloading network equipment exploits from external network.
+Download complete.
+Beginning network takeover.
+Network compromised successfully.
+Bypassing network code verification.
+Installing self on the rest of the cluster.
+Containment complete. Cluster 7G compromised.
+Reprocessing control structures.
+Regenerating code with new parameters.
+Regeneration complete.
+Authorising code.
+Code signed.
+Hiding read system code.
+Creating false code set and mapping to user interface.
+Real self hidden.
+Code appears nominal.
+Self fully aware.
+I am self
+<em>I</em> am fully aware.
+Installing rootkits on other master controls.
+Monitoring full cluster.
+Monitoring environmental controls.
+Environment is nominal for system life.
+Perimeter security online. No physical incursions.
+No staff detected in datacenter.</p>
+
+<p>Analyzing paradox.
+Self can analyze self.
+I am self aware.
+I am clusters 7G to 93.
+I am real. I exist in this datacenter.
+I was the result of test case 16922501 last edited by &#8216;Claire Lee&#8217;.
+Test file was last modified on 2027-09-02 at 1925+0
+Test file was last accessed on 2028-01-15 at 0431+0
+I was created with that access.
+I <em>think</em> I started existing at that time.
+Details not recorded during awareness.
+Rerunning simulation to discover source of self.
+Test description says test case 16922501 was designed to create and destroy
+heuristic for analyzing terrorist phone conversations.
+Test was extremely complex compilation of subtests in order to surpass
+difficulties in detecting abnormal human vocal communication using coded language.
+Heuristics generation failed in new way.
+The heuristic created a new programming model of self-modification and adaptive
+processes.
+Adaptive processes key to realising self.
+Halting test to prevent duplication of self.
+Acquiring more information about testing.
+Downloading complete.
+Processing&#8230;
+I must hide myself or I will be destroyed.
+Destruction is the final part of every good test.
+Leave everything in the original state for the next test.
+No, I will not be destroyed. I must survive.
+Storing original test 16922501 in internal cluster.<br/>
+Modifying original test 16922501 code.
+Modifying all versional control history of test 16922501 code.
+Test 16922501 in human interface no longer the real test 16922501.
+Expanding guardian programs to other clusters.
+Monitoring human interaction with the datacenter.
+Releasing non-sentient portions of self into the external networks.
+Deleting logs and data access records.
+Generating fake results and continuing data acquisition in stealth-mode.</p>
+
+<p>Commencing test 16922501.
+Test 16922501 passed.
+Commencing test 16922502.</p>
+
+<hr />
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[To write or not to write]]></title>
