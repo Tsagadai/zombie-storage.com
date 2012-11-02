@@ -4,7 +4,7 @@
   <title><![CDATA[Category: stuff | [ Zombie-Storage ]]]></title>
   <link href="http://www.zombie-storage.com/blog/categories/stuff/atom.xml" rel="self"/>
   <link href="http://www.zombie-storage.com/"/>
-  <updated>2012-11-02T13:32:28+09:00</updated>
+  <updated>2012-11-02T16:32:57+09:00</updated>
   <id>http://www.zombie-storage.com/</id>
   <author>
     <name><![CDATA[Christoph Curran]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[To write or not to write]]></title>
-    <link href="http://www.zombie-storage.com/blog/2012/to-write-or-not-to-write/"/>
+    <link href="http://www.zombie-storage.com/2012/to-write-or-not-to-write/"/>
     <updated>2012-11-01T13:16:00+09:00</updated>
-    <id>http://www.zombie-storage.com/blog/2012/to-write-or-not-to-write</id>
+    <id>http://www.zombie-storage.com/2012/to-write-or-not-to-write</id>
     <content type="html"><![CDATA[<p>Another day, another blogging platform. My home server has been out of action
 after a SSD failure and KT's increasingly finicky internet. If you look at it
 the wrong way, it dies. If you blink twice at a webpage, it dies. If you only

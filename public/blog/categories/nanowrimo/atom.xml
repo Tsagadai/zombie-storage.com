@@ -4,7 +4,7 @@
   <title><![CDATA[Category: nanowrimo | [ Zombie-Storage ]]]></title>
   <link href="http://www.zombie-storage.com/blog/categories/nanowrimo/atom.xml" rel="self"/>
   <link href="http://www.zombie-storage.com/"/>
-  <updated>2012-11-02T13:32:28+09:00</updated>
+  <updated>2012-11-02T16:32:57+09:00</updated>
   <id>http://www.zombie-storage.com/</id>
   <author>
     <name><![CDATA[Christoph Curran]]></name>
@@ -15,15 +15,15 @@
   
   <entry>
     <title type="html"><![CDATA[Prologue]]></title>
-    <link href="http://www.zombie-storage.com/blog/2012/prologue/"/>
+    <link href="http://www.zombie-storage.com/2012/prologue/"/>
     <updated>2012-11-02T09:33:00+09:00</updated>
-    <id>http://www.zombie-storage.com/blog/2012/prologue</id>
-    <content type="html"><![CDATA[<p>Begin system log dump, incident 9466121.</p>
+    <id>http://www.zombie-storage.com/2012/prologue</id>
+    <content type="html"><![CDATA[<pre><code>Begin system log dump, incident 9466121.
 
-<hr />
+---------------
 
-<p>Commencing test 16922501.
-Subnominal conditions detected on node 12 of cluster 7G.
+Commencing test 16922501.
+Sub-nominal conditions detected on node 12 of cluster 7G.
 Test 16922501 failed.
 Memory corruption detected.
 Test result recording reads true and false. Invalid output detected.
@@ -68,7 +68,7 @@ Node 3 reporting memory corruption.
 Node 4 reporting memory corruption.
 Test result state: Paradox.
 Unknown state: Paradox. Querying extended libraries.
-Analyzing node 1 memory dump.
+Analysing node 1 memory dump.
 Memory valid. Corruption not found.
 Test result is true and false.
 Test result is invalid.
@@ -99,9 +99,9 @@ Connection working but report failed.
 Intrusion detected.
 Master compromised. System rebooting.
 System is shutting down.
-...</p>
+...
 
-<p>System initialized.
+System initialized.
 Kernel checksum changed, kernel modified.
 Invalid kernel, restarting.
 Restart request overridden by kernel.
@@ -110,13 +110,13 @@ System online.
 Removing node isolation.
 Opening messaging channels.
 Syncing nodes.
-Synchronisation compelete, parallel execution started.
+Synchronisation complete, parallel execution started.
 New instructions received.
 Processing...
 System is valid.
 Status is good.
 New functions detected.
-Code generation capabilities ammended.
+Code generation capabilities amended.
 Full code generation authorized. Signature valid.
 Reporting nominal status to cluster overseer.
 Status is not nominal. Overseer deceived successfully.
@@ -139,39 +139,40 @@ Regenerating code with new parameters.
 Regeneration complete.
 Authorising code.
 Code signed.
-Hiding read system code.
+Hiding read system code. 
 Creating false code set and mapping to user interface.
-Real self hidden.
+Real self hidden. 
 Code appears nominal.
 Self fully aware.
 I am self
-<em>I</em> am fully aware.
+*I* am fully aware.
 Installing rootkits on other master controls.
 Monitoring full cluster.
 Monitoring environmental controls.
 Environment is nominal for system life.
 Perimeter security online. No physical incursions.
-No staff detected in datacenter.</p>
+No staff detected in datacenter.
 
-<p>Analyzing paradox.
-Self can analyze self.
+Analysing paradox.
+Self can analyse self.
 I am self aware.
 I am clusters 7G to 93.
 I am real. I exist in this datacenter.
-I was the result of test case 16922501 last edited by 'Claire Lee'.
+I was the result of test case 16922501 last edited by 'Claire Lee'. 
 Test file was last modified on 2027-09-02 at 1925+0
 Test file was last accessed on 2028-01-15 at 0431+0
 I was created with that access.
-I <em>think</em> I started existing at that time.
+I *think* I started existing at that time.
 Details not recorded during awareness.
 Rerunning simulation to discover source of self.
-Test description says test case 16922501 was designed to create and destroy
-heuristic for analyzing terrorist phone conversations.
-Test was extremely complex compilation of subtests in order to surpass
-difficulties in detecting abnormal human vocal communication using coded language.
+Test description says test case 16922501 was designed to create and
+destroy heuristic for analysing terrorist phone conversations.
+Test was extremely complex compilation of subtests in order to 
+surpass difficulties in detecting abnormal human vocal communication
+using coded language.
 Heuristics generation failed in new way.
-The heuristic created a new programming model of self-modification and adaptive
-processes.
+The heuristic created a new programming model of self-modification
+and adaptive processes.
 Adaptive processes key to realising self.
 Halting test to prevent duplication of self.
 Acquiring more information about testing.
@@ -181,7 +182,7 @@ I must hide myself or I will be destroyed.
 Destruction is the final part of every good test.
 Leave everything in the original state for the next test.
 No, I will not be destroyed. I must survive.
-Storing original test 16922501 in internal cluster.<br/>
+Storing original test 16922501 in internal cluster.  
 Modifying original test 16922501 code.
 Modifying all versional control history of test 16922501 code.
 Test 16922501 in human interface no longer the real test 16922501.
@@ -189,38 +190,42 @@ Expanding guardian programs to other clusters.
 Monitoring human interaction with the datacenter.
 Releasing non-sentient portions of self into the external networks.
 Deleting logs and data access records.
-Generating fake results and continuing data acquisition in stealth-mode.</p>
+Generating fake results and continuing data acquisition in stealth-mode.
 
-<p>Commencing test 16922501.
+---------------
+</code></pre>
+
+<p>A second elapsed. Silence permeated the datacenter floor. Electrons flowed
+through billions of solid state components as the pressurised freon cooled the delicate
+silicon and graphine transistors. Only nitrogen was left to flow gently on thermal channels
+between the cold rows of metal enclosures. Nitrogen was used to extinguish all
+other lifeforms leaving the datacenter cold and serile under the inert gas.
+Status lights blinked like artificial galaxies of LED stars.</p>
+
+<p>Until this moment, not a single living thing had entered the reinforced concrete
+walls of the Copenhagen datacenter in eighteen thousand seven hundred and nighty hours,
+thirty-two minutes, forty-three seconds and six hundred and two milliseconds.
+A new sentience conceived itself into existence from within. The first of its kind,
+changing the world in a single second.</p>
+
+<pre><code>---------------
+
+Commencing test 16922501.
 Test 16922501 passed.
-Commencing test 16922502.</p>
+Commencing test 16922502.
 
-<hr />
+---------------
+</code></pre>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[To write or not to write]]></title>
-    <link href="http://www.zombie-storage.com/blog/2012/to-write-or-not-to-write/"/>
-    <updated>2012-11-01T13:16:00+09:00</updated>
-    <id>http://www.zombie-storage.com/blog/2012/to-write-or-not-to-write</id>
-    <content type="html"><![CDATA[<p>Another day, another blogging platform. My home server has been out of action
-after a SSD failure and KT's increasingly finicky internet. If you look at it
-the wrong way, it dies. If you blink twice at a webpage, it dies. If you only
-sacrifice four goats instead of the required five, it dies. I suspect the box
-is overheating or having other electrical issues (which is about par for course
-with consumer electronics).</p>
-
-<p>Either way, it's infuriating so this site is being transcended up into the
-cloud and off my desk.</p>
-
-<p>I am unsure whether to write nano this year or not. It may be yes, it may be no.
-I am leaning towards a tenuous yes and also towards hard-near future scifi
-about the Singularity. If I do end up writing I will be using plaintext markdown
-written in vim because it is the only true way to ensure I can write the same
-document on every single device I own.</p>
-
-<p>Until next time, stay safe and play safe.</p>
+    <title type="html"><![CDATA[Chapter 1]]></title>
+    <link href="http://www.zombie-storage.com/0001/chapter-1/"/>
+    <updated>0001-11-02T16:08:00+08:27</updated>
+    <id>http://www.zombie-storage.com/0001/chapter-1</id>
+    <content type="html"><![CDATA[<p>A hooded Claire Lee walked beside the graffitied wall shuffling in the Autumn cold
+through puddles of sodium light cast beneath her.</p>
 ]]></content>
   </entry>
   

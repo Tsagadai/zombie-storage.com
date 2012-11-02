@@ -3,7 +3,7 @@ layout: post
 title: "To write or not to write"
 date: 2012-11-01 13:16
 comments: true
-categories: [nanowrimo, blogging, stuff]
+categories: [blogging, stuff]
 ---
 
 Another day, another blogging platform. My home server has been out of action
