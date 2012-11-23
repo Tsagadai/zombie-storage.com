@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: rants | [ Zombie-Storage ]]]></title>
+  <link href="http://www.zombie-storage.com/blog/categories/rants/atom.xml" rel="self"/>
+  <link href="http://www.zombie-storage.com/"/>
+  <updated>2012-11-23T13:09:09+09:00</updated>
+  <id>http://www.zombie-storage.com/</id>
+  <author>
+    <name><![CDATA[Christoph Curran]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[What's going on?]]></title>
+    <link href="http://www.zombie-storage.com/2012/whats-going-on/"/>
+    <updated>2012-11-23T12:23:00+09:00</updated>
+    <id>http://www.zombie-storage.com/2012/whats-going-on</id>
+    <content type="html"><![CDATA[<p>I have been uncharacteristically quiet lately. That is quite strange for me, and
+believe me it feels strange, to not be saying much. So I intend to change that,
+starting now, with this post.</p>
+
+<p>I've been looking for work. It is a long and frustrating process trying to get
+through the varied and arbitrary requirements of HR departments and recruiters.
+To make matters worse, almost everyone contacted is closely following Alec Baldwin's
+character in Glengarry Glen Ross <a href="http://www.imdb.com/character/ch0012005/quotes">ABC - always be closing</a>.
+That is, you no longer get a polite "Sorry, you didn't get the position", you
+just get ignored (until you get cold called months later about another position).</p>
+
+<p>That and most companies are required to advertise even when they have already
+picked someone from within leads to a lot of applications that go no where. It's
+bleak, rude and impersonal but it is the modern job seeker system. I'm sure many
+of you have been enjoying the pleasures of such a system for some time now.</p>
+
+<h3>What can you do about it?</h3>
+
+<p>Well, for one you can try and find ways around the status quo (the best one
+is to get someone in a company to refer you). And the other is to get noticed.
+Spend more time creating instead of consuming and get some projects out there.
+I have been notably slack on this front lately and that needs to change. I have
+three projects I want to complete and get them up and out there over the next
+month.</p>
+
+<h2>1. Android weather monitor</h2>
+
+<p>A simple Android powered weather station that broadcasts its data in a common
+weather data format for others to use. Sensors are ridiculously cheap these so
+there is no real reason not to put them everywhere (because weather data is
+useful). This is mostly done but I need to clean up my code and push it up onto
+github.</p>
+
+<h2>2. Scut.tl - a pirate MMO</h2>
+
+<p>I have grand plans to try and implement a very simple MMO. What I want to create
+is a game that can be played on a mobile phone without a native app. Using
+Javascript for the client should make this possible. I'm thinking of writing the
+server with Scala Play and open sourcing the whole thing. It will be very simple,
+mostly a proof of concept and a way of forcing me to learn some new techniques.</p>
+
+<h2>3. Joining a startup as a technical advisor</h2>
+
+<p>I know a startup that has been floundering for a while and I have pitched them
+my services. I'm going to prototype their project for them and see where it goes
+from there.</p>
+
+<p>I have not been in the right mental place to complete nanowrimo this year but
+I am still interested in finishing what I started. I'll keep writing over the
+next few months and eventually edit it and packages it all up. It isn't dead,
+it's just sleeping.</p>
+
+<p>So that's that. A few plans to keep me busy and to churn out some projects which
+will hopefully get me noticed. Failing that at least I will have something
+significant to point at next time a recruiter asks if I can code. But my other
+reasons are that I really just want to work on my own projects for a while.</p>
+]]></content>
+  </entry>
+  
+</feed>
