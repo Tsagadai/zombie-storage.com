@@ -56,8 +56,8 @@ from there.
 
 I have not been in the right mental place to complete nanowrimo this year but
 I am still interested in finishing what I started. I'll keep writing over the
-next few months and eventually edit it and packages it all up. It isn't dead,
-it's just sleeping.
+next few months. Eventually I will edit then package it all up into a tasty ebook.
+It isn't dead, it's just sleeping right now.
 
 
 So that's that. A few plans to keep me busy and to churn out some projects which
