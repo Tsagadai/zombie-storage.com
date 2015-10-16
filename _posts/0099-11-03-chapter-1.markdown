@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Chapter 1"
+date: 0001-11-02 16:08
+comments: false
+categories: [nanowrimo, writing]
+---
+
+A hooded Claire Lee walked beside the graffitied wall shuffling in the Autumn cold
+through puddles of sodium light cast beneath her.
