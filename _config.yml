@@ -1,14 +1,12 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: "[ zombie storage ]"
+email: chris@zombie-storage.com
+description: >
+  Zombie storage is a place. A place like you and me. A place to put your decomposing, reanimated bodies. Safe, safe from harm and nasty hammers, shovels, crowbars, empty shotguns, bowling balls and other instruments of brain destruction. Bring out your risen dead and put them in this box.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://zombie-storage.com"
+twitter_username: tsagadai
+github_username:  Tsagadai
 
 # Build settings
 markdown: kramdown

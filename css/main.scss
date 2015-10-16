@@ -4,22 +4,22 @@
 @charset "utf-8";
 
 
-p {color: #F00000}
-p {color: #DEAD69}
-p {color: #BABABA}
-p {color: #F2F2F5}
-p {color: #1B1B1B}
-p {color: #393835}
+//p {color: #F00000}
+//p {color: #DEAD69}
+//p {color: #BABABA}
+//p {color: #F2F2F5}
+//p {color: #1B1B1B}
+//p {color: #393835}
 
 // Our variables
 $base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
+$base-font-size:   18px;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$base-line-height: 1.6;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
+$text-color:       #444;
 $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
