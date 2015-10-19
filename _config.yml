@@ -2,7 +2,11 @@
 title: "[ zombie storage ]"
 
 description: >
-  Zombie storage is a place. A place like you and me. A place to put your decomposing, reanimated bodies. Safe, safe from harm and nasty hammers, shovels, crowbars, empty shotguns, bowling balls and other instruments of brain destruction. Bring out your risen dead and put them in this box.
+  Zombie storage is a place. A place like you and me.
+  A place to put your decomposing, reanimated bodies.
+  Safe, safe from harm and nasty hammers, shovels, crowbars,
+  empty shotguns, bowling balls and other instruments of brain
+  destruction. Bring out your risen dead and put them in this box.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://zombie-storage.com"
 
@@ -10,11 +14,12 @@ author:
   name: Christoph
   email: chris@zombie-storage.com
 twitter_username: tsagadai
-github_username:  Tsagadai
+github_username: Tsagadai
 paginate: 5
 
 # Build settings
 markdown: kramdown
 
-permalink:           pretty
+permalink: pretty
 relative_permalinks: true
+highlighter: pygments
