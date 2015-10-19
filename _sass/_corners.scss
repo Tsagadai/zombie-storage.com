@@ -1,25 +1,81 @@
-.bordered {
-  position:relative; background-color: $post-background;
-  border:1px solid $post-border; display: inline-block;
-  margin-bottom: 1em;
+.bevel.all {
+  background: $post-background; /* default color */
+  background:
+  -moz-linear-gradient(45deg,  transparent $angle-length, $post-background $angle-length),
+  -moz-linear-gradient(135deg, transparent $angle-length, $post-background $angle-length),
+  -moz-linear-gradient(225deg, transparent $angle-length, $post-background $angle-length),
+  -moz-linear-gradient(315deg, transparent $angle-length, $post-background $angle-length);
+  background:
+  -o-linear-gradient(45deg,  transparent $angle-length, $post-background $angle-length),
+  -o-linear-gradient(135deg, transparent $angle-length, $post-background $angle-length),
+  -o-linear-gradient(225deg, transparent $angle-length, $post-background $angle-length),
+  -o-linear-gradient(315deg, transparent $angle-length, $post-background $angle-length);
+  background:
+  -webkit-linear-gradient(45deg,  transparent $angle-length, $post-background $angle-length),
+  -webkit-linear-gradient(135deg, transparent $angle-length, $post-background $angle-length),
+  -webkit-linear-gradient(225deg, transparent $angle-length, $post-background $angle-length),
+  -webkit-linear-gradient(315deg, transparent $angle-length, $post-background $angle-length);
 }
-
-.bordered img {
-  display:block;
+.bevel.tlbr {
+  background: $post-background; /* default color */
+  background:
+  -moz-linear-gradient(45deg,  $post-background $angle-length, $post-background $angle-length),
+  -moz-linear-gradient(135deg, transparent $angle-length, $post-background $angle-length),
+  -moz-linear-gradient(225deg, $post-background $angle-length, $post-background $angle-length),
+  -moz-linear-gradient(315deg, transparent $angle-length, $post-background $angle-length);
+  background:
+  -o-linear-gradient(45deg,  $post-background $angle-length, $post-background $angle-length),
+  -o-linear-gradient(135deg, transparent $angle-length, $post-background $angle-length),
+  -o-linear-gradient(225deg, $post-background $angle-length, $post-background $angle-length),
+  -o-linear-gradient(315deg, transparent $angle-length, $post-background $angle-length);
+  background:
+  -webkit-linear-gradient(45deg,  $post-background $angle-length, $post-background $angle-length),
+  -webkit-linear-gradient(135deg, transparent $angle-length, $post-background $angle-length),
+  -webkit-linear-gradient(225deg, $post-background $angle-length, $post-background $angle-length),
+  -webkit-linear-gradient(315deg, transparent $angle-length, $post-background $angle-length);
 }
-
-.bordered:before {
-  position:absolute; left:-1px; top:-1px; content:'';
-  border-top: 70px solid $post-border;
-  border-right: 70px solid transparent;
-  border-left: -70px solid transparent;
-  border-bottom: -70px solid $post-border;
-}
-
-.bordered:after {
-  position:absolute; left:-2px; top:-2px; content:'';
-  border-top: 70px solid $background;
-  border-right: 70px solid transparent;
-  border-left: -70px solid transparent;
-  border-bottom: -70px solid $background;
+//.bevel.trbl {
+//  background: $post-background; /* default color */
+//  background:
+//  -moz-linear-gradient(45deg,  transparent $angle-length, $post-background $angle-length),
+//  -moz-linear-gradient(135deg, $post-background $angle-length, $post-background $angle-length),
+//  -moz-linear-gradient(225deg, transparent $angle-length, $post-background $angle-length),
+//  -moz-linear-gradient(315deg, $post-background $angle-length, $post-background $angle-length);
+//  background:
+//  -o-linear-gradient(45deg,  transparent $angle-length, $post-background $angle-length),
+//  -o-linear-gradient(135deg, $post-background $angle-length, $post-background $angle-length),
+//  -o-linear-gradient(225deg, transparent $angle-length, $post-background $angle-length),
+//  -o-linear-gradient(315deg, $post-background $angle-length, $post-background $angle-length);
+//  background:
+//  -webkit-linear-gradient(45deg,  transparent $angle-length, $post-background $angle-length),
+//  -webkit-linear-gradient(135deg, $post-background $angle-length, $post-background $angle-length),
+//  -webkit-linear-gradient(225deg, transparent $angle-length, $post-background $angle-length),
+//  -webkit-linear-gradient(315deg, $post-background $angle-length, $post-background $angle-length);
+//}
+//.bevel.tr {
+//  background: $post-background; /* default color */
+//  background:
+//  -moz-linear-gradient(45deg,  $post-background $angle-length, $post-background $angle-length),
+//  -moz-linear-gradient(135deg, $post-background $angle-length, $post-background $angle-length),
+//  -moz-linear-gradient(225deg, transparent $angle-length, $post-background $angle-length),
+//  -moz-linear-gradient(315deg, $post-background $angle-length, $post-background $angle-length);
+//  background:
+//  -o-linear-gradient(45deg,  $post-background $angle-length, $post-background $angle-length),
+//  -o-linear-gradient(135deg, $post-background $angle-length, $post-background $angle-length),
+//  -o-linear-gradient(225deg, transparent $angle-length, $post-background $angle-length),
+//  -o-linear-gradient(315deg, $post-background $angle-length, $post-background $angle-length);
+//  background:
+//  -webkit-linear-gradient(45deg,  $post-background $angle-length, $post-background $angle-length),
+//  -webkit-linear-gradient(135deg, $post-background $angle-length, $post-background $angle-length),
+//  -webkit-linear-gradient(225deg, transparent $angle-length, $post-background $angle-length),
+//  -webkit-linear-gradient(315deg, $post-background $angle-length, $post-background $angle-length);
+//}
+.bevel.all, .bevel.trbl, .bevel.tlbr, .bevel.tr {
+  background-position: bottom left, bottom right, top right, top left;
+  -moz-background-size: 50% 50%;
+  -webkit-background-size: 50% 50%;
+  background-size: 50% 50%;
+  background-repeat: no-repeat;
+  margin-bottom: 1rem;
+  padding: 15px;
 }
