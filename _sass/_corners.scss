@@ -1,0 +1,25 @@
+.bordered {
+  position:relative; background-color: $post-background;
+  border:1px solid $post-border; display: inline-block;
+  margin-bottom: 1em;
+}
+
+.bordered img {
+  display:block;
+}
+
+.bordered:before {
+  position:absolute; left:-1px; top:-1px; content:'';
+  border-top: 70px solid $post-border;
+  border-right: 70px solid transparent;
+  border-left: -70px solid transparent;
+  border-bottom: -70px solid $post-border;
+}
+
+.bordered:after {
+  position:absolute; left:-2px; top:-2px; content:'';
+  border-top: 70px solid $background;
+  border-right: 70px solid transparent;
+  border-left: -70px solid transparent;
+  border-bottom: -70px solid $background;
+}
